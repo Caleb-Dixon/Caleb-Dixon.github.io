@@ -1,4 +1,10 @@
 
+
+body{
+	background-color: 222222;
+	font: arial;
+	font-size: 12px;
+}
 p{
 font-size:14px;
 color:#999999
