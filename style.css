@@ -1,7 +1,7 @@
 
 
 body{
-	background-color: 222222;
+	background-color: #222222;
 	font: arial;
 	font-size: 12px;
 }
@@ -24,6 +24,6 @@ border-left:5px #888888 solid;
 
 li{
 color:#666666;
-font-size:12px
+font-size:12px;
 line-height:1.5;
 }
